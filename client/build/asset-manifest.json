@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f289a108.css",
+    "main.js": "/static/js/main.d37702e2.js",
+    "static/media/mula-logo.png": "/static/media/mula-logo.95b324c7509387a8b226.png",
+    "static/media/viber_image_2024-02-07_11-41-50-376.png": "/static/media/viber_image_2024-02-07_11-41-50-376.16a0c04c09641807e238.png",
+    "static/media/excel.png": "/static/media/excel.4d36eb9f7a5e1f9b368f.png",
+    "index.html": "/index.html",
+    "static/media/vector.svg": "/static/media/vector.d75ce1ba1fc02a687ae619e58d75c575.svg",
+    "main.f289a108.css.map": "/static/css/main.f289a108.css.map",
+    "main.d37702e2.js.map": "/static/js/main.d37702e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f289a108.css",
+    "static/js/main.d37702e2.js"
+  ]
+}
